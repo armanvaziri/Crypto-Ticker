@@ -13,7 +13,7 @@
 		6B224BAB2231F5510055B7B4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B224BAA2231F5510055B7B4 /* Assets.xcassets */; };
 		6B224BAE2231F5510055B7B4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B224BAC2231F5510055B7B4 /* LaunchScreen.storyboard */; };
 		6B224BB62231F6320055B7B4 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B224BB52231F6320055B7B4 /* Data.swift */; };
-		A2E7C5F522962D95008CEA59 /* GradientExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2E7C5F422962D95008CEA59 /* GradientExtension.swift */; };
+		A2E6F7AC229A27E200D8AF6B /* GradientExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2E6F7AB229A27E200D8AF6B /* GradientExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		6B224BAD2231F5510055B7B4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6B224BAF2231F5510055B7B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6B224BB52231F6320055B7B4 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
-		A2E7C5F422962D95008CEA59 /* GradientExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GradientExtension.swift; path = "../../../PP-GitHub/PPiOSProject/PP-Project/UIExtensions/GradientExtension.swift"; sourceTree = "<group>"; };
+		A2E6F7AB229A27E200D8AF6B /* GradientExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +60,7 @@
 			children = (
 				6B224BA32231F5500055B7B4 /* AppDelegate.swift */,
 				6B224BB52231F6320055B7B4 /* Data.swift */,
-				A2E7C5F422962D95008CEA59 /* GradientExtension.swift */,
+				A2E6F7AB229A27E200D8AF6B /* GradientExtension.swift */,
 				6B224BA52231F5500055B7B4 /* ViewController.swift */,
 				6B224BA72231F5500055B7B4 /* Main.storyboard */,
 				6B224BAA2231F5510055B7B4 /* Assets.xcassets */,
@@ -142,7 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6B224BA62231F5500055B7B4 /* ViewController.swift in Sources */,
-				A2E7C5F522962D95008CEA59 /* GradientExtension.swift in Sources */,
+				A2E6F7AC229A27E200D8AF6B /* GradientExtension.swift in Sources */,
 				6B224BB62231F6320055B7B4 /* Data.swift in Sources */,
 				6B224BA42231F5500055B7B4 /* AppDelegate.swift in Sources */,
 			);

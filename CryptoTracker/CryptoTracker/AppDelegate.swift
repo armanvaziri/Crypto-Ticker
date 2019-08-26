@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  CryptoTracker
 //
-//  Created by David [Entei] Xiong on 3/7/19.
-//  Copyright © 2019 iosdecal. All rights reserved.
+//  Created by ArmanVaziri on 3/7/19.
+//  Copyright © 2019 ArmanVaziri. All rights reserved.
 //
 
 import UIKit
