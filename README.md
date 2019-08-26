@@ -1,5 +1,4 @@
 # CryptoTracker by Arman Vaziri
 
-App that displays real-time information about various coins in various currencies.
-Parses data from Cryptonator API using JSON. 
+This iOS application uses the Cryptonator API to display real-time information about the most popular crytopcurrencies.
 
